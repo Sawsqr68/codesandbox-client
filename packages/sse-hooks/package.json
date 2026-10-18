@@ -17,7 +17,7 @@
     "sandbox-hooks": "0.1.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.5.5",
+    "@babel/core": "^8.0.7",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-flow": "^7.0.0",
     "rollup": "^0.66.0",
